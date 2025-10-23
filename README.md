@@ -1,10 +1,6 @@
-# The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
+# The most essential list of resources for Front-End beginners (🇺🇸 & 🇫🇷)
 
-[![Join the chat at https://gitter.im/sky-starter-kit/Lobby][gitter-image]][gitter-url] [![Contributors](https://img.shields.io/github/contributors/thedaviddias/Resources-Front-End-Beginner.svg)](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors)
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-[gitter-image]: https://badges.gitter.im/Front-End-Checklist/Lobby.svg
-[gitter-url]: https://gitter.im/Front-End-Checklist/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
 If you want to learn how to become a Front-End developer, you are in the right place!
 
@@ -237,6 +233,12 @@ I'm using some emoticons to give you more information on these links.
 
 ---
 
+### Learn TypeScript
+
+* Articles / Books
+  * [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) 🆓
+
+---
 ## Learn GIT
 
 - [15 minutes to learn Git](https://try.github.io) 🔝
@@ -279,6 +281,29 @@ I'm using some emoticons to give you more information on these links.
   - [Brackets](http://brackets.io/) 🆓
   - [NotePad++](https://notepad-plus-plus.org/) 🆓
   - [Cloud9](https://c9.io/) 💰🆓
+* Essential
+  * [Github](https://github.com/) 💰🆓 🔝
+* Website auditors
+  * [Checkbot](https://www.checkbot.io/) 💰🆓 🔝
+* Playgrounds
+  * [Codepen](https://codepen.io/) 💰🆓 🔝
+  * [CodeSandbox](https://codesandbox.io/)
+  * [SassMeister](https://www.sassmeister.com/)
+  * [JSFiddle](https://jsfiddle.net/)
+  * [JSBin](https://jsbin.com/)
+  * [Thimble](https://thimble.mozilla.org/en-US/)
+
+* Web design Tools
+  * [Webflow](https://webflow.com/)🆓💰
+  * [Framer](https://www.framer.com/)🆓💰
+  
+* Editors
+  * [Visual Studio Code](https://code.visualstudio.com/) 🆓 🔝
+  * [Sublime Text](https://www.sublimetext.com/) 🆓
+  * [Atom](https://atom.io/) 🆓
+  * [Brackets](http://brackets.io/) 🆓
+  * [NotePad++](https://notepad-plus-plus.org/) 🆓
+  * [Cloud9](https://c9.io/) 💰🆓
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -302,6 +327,15 @@ I'm using some emoticons to give you more information on these links.
 - [Echo JS - JavaScript News](http://www.echojs.com/)
 - [A list Apart - Code](https://alistapart.com/topic/code)
 - [Scotch - Code Eat Sleep Loop](https://scotch.io/)
+* [Smashing Magazine](https://www.smashingmagazine.com/) 🔝
+* [CSS-Tricks](https://css-tricks.com/) 🔝
+* [Front-End Stash](https://frontendstash.top/) 🔝
+* [Codrops](https://tympanus.net/codrops/) 🔝
+* [Front-End Front - Basically, front-end news](https://frontendfront.com/)
+* [Echo JS - JavaScript News](http://www.echojs.com/)
+* [A list Apart - Code](https://alistapart.com/topic/code)
+* [Scotch - Code Eat Sleep Loop](https://scotch.io/)
+* [Daily.dev](https://daily.dev/)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -324,13 +358,25 @@ I'm using some emoticons to give you more information on these links.
 
 **Open an issue or a pull request to suggest changes or additions.**
 
-### Contributors
+## Contributors
 
-Check out all the super awesome [contributors](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors).
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://thedaviddias.com"><img src="https://avatars.githubusercontent.com/u/237229?v=4?s=120" width="120px;" alt="David Dias"/><br /><sub><b>David Dias</b></sub></a><br /><a href="#content-thedaviddias" title="Content">🖋</a> <a href="#maintenance-thedaviddias" title="Maintenance">🚧</a> <a href="https://github.com/thedaviddias/Resources-Front-End-Beginner/pulls?q=is%3Apr+reviewed-by%3Athedaviddias" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gibbok"><img src="https://avatars.githubusercontent.com/u/17195702?v=4?s=120" width="120px;" alt="Simone Poggiali"/><br /><sub><b>Simone Poggiali</b></sub></a><br /><a href="#content-gibbok" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://arunava.dev"><img src="https://avatars.githubusercontent.com/u/83031120?v=4?s=120" width="120px;" alt="Arunava  (Aru)"/><br /><sub><b>Arunava  (Aru)</b></sub></a><br /><a href="#content-liquid-O2" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
 
-## Authors
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
-**[David Dias](https://twitter.com/thedaviddias)**
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
 
